@@ -8,5 +8,7 @@ Discord API: Works
 Quenich API: Works
 
 </div>
+
 ### Информация о коде: / Information about the code:
+
 > Весь код бота находится в закрытом репозитории. / All the bot code is located in a closed repository.
