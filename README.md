@@ -7,4 +7,4 @@
 
 ### Информация о коде: / Information about the code:
 
-> Весь код бота находится в закрытом репозитории. / All the bot code is located in a closed repository.
+> Весь код бота находится в отдельном закрытом репозитории. / All the bot code is located in a separate closed repository.
