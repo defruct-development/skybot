@@ -6,8 +6,8 @@
 <iframe src="https://discord.com/widget?id=640193193358393354&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
   ### Информация о боте: / Information about the bot:
-- Discord API: Works
-- Quenich API: Works
+Discord API: Works
+Quenich API: Works
 
 </div>
 
