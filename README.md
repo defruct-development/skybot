@@ -5,7 +5,9 @@
 
 [![Discord Server](https://discord.com/api/guilds/640193193358393354/widget.json)
 
-### Информация о боте: / Information about the bot:
+</div>
+
+  ### Информация о боте: / Information about the bot:
 - Discord API: Works
 - Quenich API: Works
 > Весь код бота находится в закрытом репозитории. / All the bot code is located in a closed repository.
